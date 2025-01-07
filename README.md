@@ -46,7 +46,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS (Basic)" height="30">
   <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity" height="30">
 </div>
-<br>
 
 ### Data Analytics and NLP Projects (with ML)
 
