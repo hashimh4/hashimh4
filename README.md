@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Passionate Python programmer from the UK, focussed on impactful innovative solutions.</h3>
 
-- 🔍 I am currently open to new opportunities and **looking for work in the field of data analytics, data science and machine learning**. If you are looking for someone with my skills and experience, feel free to contact me.
+- 🔍 I am open to new opportunities and **looking for work in the field of data analytics, data science and machine learning**. If you are searching for someone with my skills and experience, feel free to contact me.
 - 💡 My interests include **data analytics, computer vision and research**. Using machine learning and deep learning.
 - 🧠 I have specific knowledge and experience in **music computation and automatic music transcription**.
 - 💬 Feel free to ask me about automatic music transcription.
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 ### Data Analytics and NLP Projects (with ML)
 
 - **[Learning-Analytics (2024)](https://github.com/hashimh4/Learning-Analytics-Predicting-Performance)**
-  - Focuses on predicting student performance using data analytics techniques.
+  - Three regression ML models (polynomial regression, ridge regression and elastic net regression) to predict student performance. Including data cleaning and preparation, initial dataset analysis, model evaluation, dataset suitability analysis and observations.
   
 - **[NLP-Fake-News-Detection-with-Random-Forest-Classification-and-LSTMs (2024)](https://github.com/hashimh4/NLP-Fake-News-Detection-with-Random-Forest-Classification-and-LSTMs)**
-  - Implements fake news detection using Random Forests and LSTM models.
+  - Two fake news detector models, using ML (random forest classification) / DL (LSTMs) and BERT / TF-IDF feature extraction. See the evaluatory paper on the suitability of TF-IDF and BERT with the implemented models [here](https://github.com/hashimh4/NLP-Fake-News-Detection-with-Random-Forest-Classification-and-LSTMs/blob/main/fake_new_evaluating_TF-IDF_against_BERT.pdf).
   
 - **[VR-Museum-Data-Analytics (2022)](https://github.com/hashimh4/VR-Museum-Data-Analytics)** *(Internship)*
-  - Analyzes virtual reality data collected from a 3D museum environment.
+  - Analysis of VR data collected from a 3D museum environment to ...
   
 - **[Data-Collection-and-Cleaning (2022)](https://github.com/hashimh4/Data-Collection-and-Cleaning)**
   - Focuses on methods for collecting and cleaning datasets for analysis.
