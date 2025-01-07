@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hashim🔭
+<h1 align="center">Hi there 👋 I'm Hashim🔭</h1>
 
 <!--
 **hashimh4/hashimh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">Passionate Python programmer from the UK, focussed on impactful innovative solutions.</h3>
 
 - 🔍 I am currently open to new opportunities and **looking for work in the field of data analytics, data science and machine learning**. If you are looking for someone with my skills and experience, feel free to contact me.
 - 💡 My interests include **data analytics, computer vision and research**. Using machine learning and deep learning.
