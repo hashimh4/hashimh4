@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 For my complete portfolio, including: software engineering, further deep learning, reinforcement learning, computer graphics, security, game development and more, please explore the additional public repositories on my GitHub profile.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/1506b5fe-0c23-4e4d-bffd-40962171b276" height="120" alt="Prog">
-  <img src="https://github.com/user-attachments/assets/8d4418c8-fa0d-4d1a-a418-bf394997f13b" height="120" alt="Rec Sys">
-  <img src="https://github.com/user-attachments/assets/33cc49ff-c057-43b2-ba98-a84947684e86" height="120" alt="Game Dev">
-  <img src="https://github.com/user-attachments/assets/e919ec0c-2d17-4c4a-a188-0cef0cd05c0b" height="120" alt="RL">
-  <img src="https://github.com/user-attachments/assets/5a81de9f-e636-4617-ad2a-c817360a2282" height="120" alt="Vis 2">
-  <img src="https://github.com/user-attachments/assets/6abd9312-c5dd-457c-8e23-d8bc44a229a2" height="120" alt="Adv Vis">
-  <img src="https://github.com/user-attachments/assets/2fdaf7a9-b319-452d-aaf7-d649b784742c" height="120" alt="Diss 2">
-  <img src="https://github.com/user-attachments/assets/67c58434-bb87-4b5f-9f8f-1af96d2bdace" height="120" alt="Diss 1">
+  <img src="https://github.com/user-attachments/assets/1506b5fe-0c23-4e4d-bffd-40962171b276" height="118" alt="Prog">
+  <img src="https://github.com/user-attachments/assets/8d4418c8-fa0d-4d1a-a418-bf394997f13b" height="118" alt="Rec Sys">
+  <img src="https://github.com/user-attachments/assets/33cc49ff-c057-43b2-ba98-a84947684e86" height="118" alt="Game Dev">
+  <img src="https://github.com/user-attachments/assets/e919ec0c-2d17-4c4a-a188-0cef0cd05c0b" height="118" alt="RL">
+  <img src="https://github.com/user-attachments/assets/5a81de9f-e636-4617-ad2a-c817360a2282" height="118" alt="Vis 2">
+  <img src="https://github.com/user-attachments/assets/6abd9312-c5dd-457c-8e23-d8bc44a229a2" height="118" alt="Adv Vis">
+  <img src="https://github.com/user-attachments/assets/2fdaf7a9-b319-452d-aaf7-d649b784742c" height="118" alt="Diss 2">
+  <img src="https://github.com/user-attachments/assets/67c58434-bb87-4b5f-9f8f-1af96d2bdace" height="118" alt="Diss 1">
 </div>
