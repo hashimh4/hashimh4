@@ -58,21 +58,22 @@ Here are some ideas to get you started:
   - Two fake news detector models, using ML (random forest classification) / DL (LSTMs) and BERT / TF-IDF feature extraction. See the evaluatory paper on the suitability of TF-IDF and BERT with the implemented models [here](https://github.com/hashimh4/NLP-Fake-News-Detection-with-Random-Forest-Classification-and-LSTMs/blob/main/fake_new_evaluating_TF-IDF_against_BERT.pdf).
   
 - **[VR-Museum-Data-Analytics (2022)](https://github.com/hashimh4/VR-Museum-Data-Analytics)** *(Internship)*
-  - Analysis of VR data collected from a 3D museum environment to ...
+  - Analysis of VR data collected from a 3D museum environment to assess scientific relationships between head movements, eye movements and the virtual position of a person.
   
 - **[Data-Collection-and-Cleaning (2022)](https://github.com/hashimh4/Data-Collection-and-Cleaning)**
-  - Focuses on methods for collecting and cleaning datasets for analysis.
+  - Pre-processing and cleaning three yearly survey datasets for visualisation. Using numpy, pandas, seaborn and matplotlib.
   
 - **[ML-Predicting-Age-From-Humour-Styles (2021)](https://github.com/hashimh4/ML-Predicting-Age-From-Humour-Styles)**
-  - Uses machine learning to predict age based on humor styles.
+  - Three models to predict age from humour style using supervised learning methods - linear regression, polynomial regression and KNN. Read the paper [here](https://drive.google.com/file/d/18wmz2JeDEA661GIP2cJo_U-BsuIm-ira/view?usp=drive_link).
 
 ### Computer Vision Projects (with DL and ML)
 
-- **[audio-visual-music-transcription (2024)](https://github.com/CognitiveComputingLab/audio-visual-music-transcription)** / **[audio-visual-piano-transcription (2024)](https://github.com/hashimh4/audio-visual-piano-transcription)**
-  - Develops a novel approach for transcribing music by combining audio and visual data.
+- **[audio-visual-music-transcription (2024)](https://github.com/CognitiveComputingLab/audio-visual-music-transcription)** / **[audio-visual-piano-transcription (2024)](https://github.com/hashimh4/audio-visual-piano-transcription)** _(Most starred ⭐)_
+  - The first publically avaliable joint automatic audio-visual piano transcription model. For videos from an overhead angle. Achieves near state-of-the-art results
+  - Including a visual model with keyboard detection, hand detection and key detection. Where the notes covered by hands for each frame are passed as input to an audio model
   
 - **[Computer-Vision-Style-Transfer (2024)](https://github.com/hashimh4/Computer-Vision-Style-Transfer)**
-  - Applies style transfer techniques to modify images using computer vision and deep learning.
+  - A movie-game style transfer model, using a CycleGAN model. Improved with human detection and human classification to further enhance the look of humans within frames
 
 ### Further Projects
 For my complete portfolio, including: software engineering, further deep learning, reinforcement learning, computer graphics, security, game development and more, please explore the additional public repositories on my GitHub profile.
