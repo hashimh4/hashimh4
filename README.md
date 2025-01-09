@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Passionate Python programmer from the UK, focussed on impactful innovative solutions.</h3>
 
-- 🔍 I am open to new opportunities and **looking for work in the field of data analytics, data science and machine learning**. If you are searching for someone with my skills and experience, feel free to contact me.
+- 🔍 I am open to new opportunities and **looking for work in the field of data analytics, data science and machine learning or IT**. If you are searching for someone with my skills and experience, feel free to contact me.
 - 💡 My interests include **data analytics, computer vision and research**. Using machine learning and deep learning.
 - 🧠 I have specific knowledge and experience in **music computation and automatic music transcription**.
 - 💬 Feel free to ask me about automatic music transcription.
