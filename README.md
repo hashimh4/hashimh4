@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Passionate Python programmer from the UK, focussed on impactful innovative solutions.</h3>
 
-- 🔍 I am open to new opportunities and **looking for work in the field of data analytics, data science and machine learning or IT**. If you are searching for someone with my skills and experience, feel free to contact me.
-- 💡 My interests include **data analytics, computer vision and research**. Using machine learning and deep learning.
+- 🔍 I am looking to connect with people in the fields of **machine learning, computer vision, data science or data analytics**. If my skills and experience align with your interests, feel free to contact me.
+- 💡 My interests include **data science, computer vision and research**. Using machine learning and deep learning in various fields.
 - 🧠 I have specific knowledge and experience in **music computation and automatic music transcription**.
 - 💬 Feel free to ask me about automatic music transcription.
 - 📫 Reach me at: hashimhussain4242@gmail.com
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" height="30">
   <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white" alt="C#" height="30">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript" height="30">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="30">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="30">
